@@ -17,6 +17,28 @@ import java.util.Scanner;
  * 输出格式A B C
  * 多组勾股数元组，按照A B C升序的排序方式输出。
  * 若给定范围内，找不到勾股数元组时，输出Na。
+ * <p>
+ * 示例一
+ * 输入
+ * <p>
+ * 1
+ * 20
+ * COPY
+ * 输出
+ * <p>
+ * 3 4 5
+ * 5 12 13
+ * 8 15 17
+ * COPY
+ * 示例二
+ * 输入
+ * <p>
+ * 5
+ * 10
+ * COPY
+ * 输出
+ * <p>
+ * Na
  */
 public class _0001 {
     public static void main(String[] args) {
